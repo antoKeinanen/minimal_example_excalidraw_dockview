@@ -1,0 +1,9 @@
+@import '../node_modules/dockview/dist/styles/dockview.css';
+
+body {
+  margin: 0;
+}
+
+.grid-view {
+  height: 100vh !important;
+}
